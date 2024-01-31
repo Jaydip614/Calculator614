@@ -1,16 +1,22 @@
 # calculator_app
 
-A new Flutter project.
+Flutter project: Calculator App Development
 
-## Getting Started
+### About Project:
 
-This project is a starting point for a Flutter application.
+This is a simple Calculator App to perform basic operatio like: +,/,-,*
 
-A few resources to get you started if this is your first Flutter project:
+Here keyboard is created by using of Widgets like: GridView,InkWell..etc 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- To learn more about Widgets:
+- [flutter.dev](https://docs.flutter.dev/get-started/codelab)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Some Screenshots:
+
+<table>
+  <tr>
+    <td><img src="Screenshot/text_button.png" width=250 height=520></td>
+    <td><img src="Screenshot/elevated_button.png" width=250 height=520></td>
+    <td><img src="Screenshot/outlined_button.png" width=250 height=520></td>
+  </tr>
+ </table>
