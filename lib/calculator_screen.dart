@@ -87,7 +87,7 @@ class _CalculatorState extends State<Calculator>{
         child: Center(
           child: Text(
             text,
-            style: TextStyle(g
+            style: TextStyle(
               fontSize: 23,
               fontWeight: FontWeight.bold,
               color: getColor(text),
