@@ -15,6 +15,11 @@ To learn more about Widgets:
 
 <table>
   <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
     <td><img src="start_screenshot.png" width=250 height=520></td>
     <td><img src="second.png" width=250 height=520></td>
     <td><img src="third.png" width=250 height=520></td>
